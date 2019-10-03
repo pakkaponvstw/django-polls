@@ -25,11 +25,11 @@
 ```
 4. Migrate
 ```
-    type: python3 manage.py migrate
+    type: python manage.py migrate
 ```
 5. Run server
 ```
-    type: python3 manage.py runserver
+    type: python manage.py runserver
 ```
 ## Features
 ```    
