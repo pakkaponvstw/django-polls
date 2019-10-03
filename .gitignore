@@ -105,4 +105,4 @@ venv.bak/
 
 
 # database
-db.sqlite3
+/db.sqlite3
