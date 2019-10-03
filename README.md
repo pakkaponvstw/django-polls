@@ -8,7 +8,7 @@
  * Django 2.1.2 or newer
  * Python add-on modules as in [requirements.txt](requirements.txt)
 
-# Installation
+# How to run
 1. Install Python
 ```   
     Install Python (Version 3.6)
